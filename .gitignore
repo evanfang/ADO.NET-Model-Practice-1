@@ -1,0 +1,4 @@
+*.ldf
+*.MDF
+*.exe
+ConsoleApplication1/ConsoleApplication1/bin/Debug/NORTHWND.MDF
